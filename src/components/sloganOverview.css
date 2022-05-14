@@ -1,0 +1,73 @@
+.overviewContainer {
+  width: 80%;
+  height: 1370px;
+  position: absolute;
+  top: 134px;
+  background-color: #ffffff;
+  left: 180px;
+  border-radius: 8px;
+  align-items: center;
+  box-shadow: 0px 2px 8px rgba(26, 24, 30, 0.06);
+}
+
+.overviewHeading {
+  color: #4d4d4d;
+  width: 60%;
+  padding: 0px 10rem 0px 10rem;
+  text-align: start;
+  line-height: 1.6;
+  align-items: flex-start;
+}
+
+.slogan-container {
+  margin-left: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  left: 130px;
+  /* right: 0; */
+  /* width: 50%; */
+  color: "#1A181E";
+  align-items: center;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: start;
+  margin-top: 30px;
+  line-height: 28px;
+  width: 352px;
+  height: 60px;
+  background-color: #f2f2f2;
+}
+
+.parent-slogan-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  width: 30%;
+}
+
+.parent-pagination-class {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination-class {
+  color: #ffffff;
+  margin-right: 10px;
+  font-size: 20px;
+  
+  width: 30px;
+  height: 30px;
+  background: #146eb4;
+  border-radius: 70px;
+}
+
+.pagination-sub-class {
+    font-size: 20px;
+  margin-right: 10px;
+  color: #146eb4;
+  width: 25px;
+  height: 25px;
+}
