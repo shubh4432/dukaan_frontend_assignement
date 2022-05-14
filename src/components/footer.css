@@ -38,3 +38,13 @@
     display: flex;
     color: #FFFFFF;
 }
+
+.footer-job-number{
+  color: #1A181E;
+  margin-left: 5px;
+  font-size: 18px;
+  width: 25px;
+  height: 25px;
+  background: #FFFFFF;
+  border-radius: 40px;
+}

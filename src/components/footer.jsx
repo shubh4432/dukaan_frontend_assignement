@@ -20,7 +20,7 @@ const footer = () => {
           <p>Blog</p>
           <p>Banned Items</p>
           <p>About</p>
-          <p>Jobs</p>
+          <div style={{display:"flex", alignItems:"center"}}><p>Jobs</p><span className="footer-job-number">3</span></div>
         </div>
         <div
           style={{
